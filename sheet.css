@@ -27,8 +27,7 @@ html,body{
 	background-image: url('bg.jpg');
 	background-repeat: repeat-y;
 	padding: 50px;
-	height: 100vh;
-	height: calc(var(--vh, 1vh) * 100);
+        height: auto;
 	position: relative;
 	text-align: center;
 }
